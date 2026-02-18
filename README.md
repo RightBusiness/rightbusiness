@@ -1,19 +1,25 @@
-# Welcome to RightBusiness PTE. LTD.
+# RightBusiness Pte. Ltd.
 
-We specialize in creating clarity-first AI workflows for businesses, embedding internal SOPs and knowledge systems into tools like ChatGPT and low-code platforms.
+Operational systems and AI-driven workflows for small and medium businesses.
 
-## Our Services
-- **AI Integration**: Automating processes using generative AI tools.
-- **Knowledge Systems Design**: Embedding SOPs and internal knowledge into your tools.
-- **Web Development and Maintenance**: Clean, professional, mobile-first websites for businesses.
+This repository serves as the public code layer for selected implementations, internal tooling structures, and system prototypes developed under Right Business.
 
-## Our Clients
-We currently work with businesses in various sectors, including:
-- Maid Agencies
-- Renovation Contractors
-- Educational Institutions
+## Focus Areas
 
-For more information, visit our official website: [rightbusiness.com.sg](http://rightbusiness.com.sg)
+- AI Workflow Automation  
+- Knowledge System Design  
+- Internal SOP Structuring  
+- Client-Facing Web Systems  
 
-## Contact Us
-Email us at **team@rightbusiness.com.sg**.
+## Structure
+
+Projects within this organization represent:
+- Production-ready implementations
+- Supporting technical infrastructure
+- Controlled proofs of concept tied to real business contexts
+
+For business information, visit:
+https://rightbusiness.com.sg
+
+For enquiries:
+team@rightbusiness.com.sg
