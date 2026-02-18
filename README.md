@@ -24,4 +24,5 @@ For business information, visit:
 https://rightbusiness.com.sg
 
 For enquiries:
-https://gazali.one/contact
+team@rightbusiness.com.sg
+
