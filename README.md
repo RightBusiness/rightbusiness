@@ -22,4 +22,4 @@ For business information, visit:
 https://rightbusiness.com.sg
 
 For enquiries:
-https//gazali.one/contact
+https://gazali.one/contact
