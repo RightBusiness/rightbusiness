@@ -6,10 +6,10 @@ This repository serves as the public code layer for selected implementations, in
 
 ## Focus Areas
 
-- AI Workflow Automation  
-- Knowledge System Design  
-- Internal SOP Structuring  
-- Client-Facing Web Systems  
+- AI Workflow Automation
+- Knowledge and RAG System Design
+- SOP and Governance Structuring
+- Client-Facing Operational Systems
 
 ## Structure
 
