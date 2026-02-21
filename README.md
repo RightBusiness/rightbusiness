@@ -1,4 +1,4 @@
-# RightBusiness Pte. Ltd.
+# rightbusiness
 
 Flagship public repository for selected operational systems and AI workflow architectures developed under Right Business.
 
